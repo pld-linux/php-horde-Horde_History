@@ -9,7 +9,7 @@ License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
 # Source0-md5:	b7cf809e88f969f5d0099ca45e7fa7b3
-URL:		http://pear.horde.org/package/Horde_History/
+URL:		https://github.com/horde/horde/tree/master/framework/History/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
 BuildRequires:	php-pear-PEAR >= 1:1.7.0
