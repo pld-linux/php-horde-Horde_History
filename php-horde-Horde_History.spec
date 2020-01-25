@@ -1,6 +1,5 @@
 %define		status		stable
 %define		pearname	Horde_History
-%include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - API for tracking the history of an object
 Name:		php-horde-Horde_History
 Version:	1.0.1
